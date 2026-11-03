@@ -1,0 +1,6 @@
+{
+  "name": "NexusMail — Почта и Планировщик",
+  "description": "Простой и быстрый почтовый клиент со встроенным планировщиком задач для эффективного управления рабочим процессом.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
